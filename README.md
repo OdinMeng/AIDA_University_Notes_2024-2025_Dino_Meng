@@ -8,9 +8,9 @@ Available Subjects:
 - Programming for Data Science ``[ENGLISH]``
 - Machine Learning I ``[ENGLISH]``
 - Data Preprocessing ``[ENGLISH]``
+- Mathematical Methods and Models for AI ``[ITALIAN]``
 
 Planned Subjects:
-- Mathematical Methods and Models for AI ``[ITALIAN]``
 - Numerical Analysis ``[ITALIAN/ENGLISH]``
 - Optimization Algorithms ``[ITALIAN/ENGLISH]``
 - Machine Learning B ``[ITALIAN/ENGLISH]``
